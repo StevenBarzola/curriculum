@@ -1,2 +1,2 @@
-# curriculum
+# Curriculum
 Descripción profesional
